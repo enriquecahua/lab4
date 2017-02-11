@@ -1,3 +1,10 @@
+/*
+ * Name: Enrique Cahua
+ * ID: 0523964
+ * Date: 2/10/2017
+ * Lab #: 4
+ * Description: JavFX War Card Game
+*/
 package lab4;
 import javafx.scene.text.*;
 import javafx.application.Application;
